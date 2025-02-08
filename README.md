@@ -1,4 +1,4 @@
-# isaac-save-edit-script
+# isaac completions mark reader
 A script in python to know what completions marks you have in the binding of isaac repentance (+).
 This script uses code from https://github.com/jamesthejellyfish/isaac-save-edit-script
 credits to jamesthejellyfish
