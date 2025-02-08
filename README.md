@@ -3,6 +3,8 @@ A script in python to know what completions marks you have in the binding of isa
 This script uses code from https://github.com/jamesthejellyfish/isaac-save-edit-script
 credits to jamesthejellyfish
 
+![image](https://github.com/user-attachments/assets/38310994-6624-4e35-aa74-742d9992a929)
+
 ## Opening your save file
 Select the "Open Isaac Save File" menu item to locate your save file. By default, you will be navigated to your steam userdata folder. To find your save file, go to 
 ```
@@ -16,4 +18,5 @@ put your save file in the same folder as the script and do:
 ```bash
 python script_isaac.py rep_persistengamedata{1|2|3}.dat
 ```
+
 
